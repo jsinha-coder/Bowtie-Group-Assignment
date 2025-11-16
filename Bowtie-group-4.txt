@@ -1,0 +1,28 @@
+# 🚗 Bowtie Risk Visualization – Loss of Vehicle Control  
+### DSBA 5122 – Team Submission (Approach 1)
+
+---
+
+## 👥 Team Information  
+**Team #:**  
+**Team Members:**  
+- Jagriti Sinha  
+- Reet Verma  
+- Regine Smith  
+
+**Chosen Approach:**  
+➡️ **Approach 1 – Build using ReactFlow + ELKJS**
+
+---
+
+## 📝 Risk Story Summary  
+Our Bowtie diagram explains what can happen when a driver loses control of a car on the highway. We show what things can cause this to happen, like tiredness, bad weather, or road hazards. We also show the safety steps that help stop the accident, and the steps that reduce the damage if an accident does happen. The diagram also shows the possible outcomes, like crashing into another car or hitting something on the roadside. Our goal is to make the whole risk story simple and clear for anyone to understand.
+
+
+---
+
+## ▶️ How to Run the Project
+
+### **Local Setup**
+1. Clone the GitHub repository  
+2. Install dependencies  
