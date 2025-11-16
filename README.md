@@ -30,8 +30,19 @@ Our goal is to make the risk story extremely simple and easy for anyone to follo
 ### **🔗 Live Prototype Link (ReactFlow)**  
   https://codesandbox.io/p/devbox/pensive-villani-qhc9xx?file=%2Fsrc%2FApp.tsx%3A37%2C24&workspaceId=ws_RTJedvwauwDjt6KLjx91Ys
 
-### **💻 Local Setup**  
+1. ### 🖥️ Local Setup
+
 1. Clone the GitHub repository  
+   git clone https://github.com/jsinha-coder/Bowtie-Group-Assignment.git
+
 2. Install dependencies  
+   npm install
+
+3. Run the development server  
+   npm start
+
+4. Open the project in the browser  
+   http://localhost:3000
+
 
 
