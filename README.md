@@ -1,11 +1,11 @@
 # Bowtie-Group Assignment
 # 🚗 Bowtie Risk Visualization – Loss of Vehicle Control  
-### 📘 DSBA 5122 – Group Submission (Approach 1)
+### 📘 DSBA 5122 – Group Submission (Approach 1)This is a student project developed for DSBA 5122 in collaboration with Todus Advisors. Bowtie Symbols are proprietary of Todus Advisors.
 
 ---
 
 ## 👥 Team Information  
-**Team #:** TBD  
+**Team 4:**  
 **Team Members:**  
 - Jagriti Sinha  
 - Reet Verma  
