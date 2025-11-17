@@ -5,7 +5,7 @@
 ---
 
 ## 👥 Team Information  
-**Team 4:**  
+**Group 4:**  
 **Team Members:**  
 - Jagriti Sinha  
 - Reet Verma  
