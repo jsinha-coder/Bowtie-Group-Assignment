@@ -28,7 +28,7 @@ Our goal is to make the risk story extremely simple and easy for anyone to follo
 ## ▶️ How to Run or View the Project  
 
 ### **🔗 Live Prototype Link (ReactFlow)**  
-https://codesandbox.io/p/devbox/pensive-villani-qhc9xx?file=%2Fsrc%2FApp.tsx%3A1015%2C2&workspaceId=ws_RTJedvwauwDjt6KLjx91Ys
+https://codesandbox.io/p/devbox/pensive-villani-qhc9xx?workspaceId=ws_RTJedvwauwDjt6KLjx91Ys
 
 1. ### 🖥️ Local Setup
 
